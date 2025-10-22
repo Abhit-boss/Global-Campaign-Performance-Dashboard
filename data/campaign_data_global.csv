@@ -1,0 +1,8 @@
+data/campaign_data_global.csv
+Date,Country,Campaign Name,Spend,Leads,Conversions,Revenue
+2023-01-01,UK,Winter Launch,2000,300,90,9000
+2023-01-01,USA,Holiday Boost,3000,500,120,12500
+2023-01-01,India,Spring Blitz,1500,400,100,8000
+2023-01-15,UK,Winter Launch,1800,270,85,8700
+2023-01-15,USA,Holiday Boost,2800,470,115,12200
+2023-01-15,India,Spring Blitz,1400,390,95,7500
