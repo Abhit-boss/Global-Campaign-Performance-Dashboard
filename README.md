@@ -1,2 +1,5 @@
-# Global-Campaign-Performance-Dashboard
-A performance dashboard project simulating marketing campaigns across global markets. Tracks KPIs like CAC, LTV, ROAS, churn, and activation using Excel, Google Sheets, and Looker Studio.
+# 🌍 Global Marketing Campaign Performance Dashboard
+
+This project analyzes performance data of global marketing campaigns using KPIs such as ROAS, Conversion Rate, and Cost per Conversion.
+
+📁 **Repo Structure**
